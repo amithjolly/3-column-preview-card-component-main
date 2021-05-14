@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    margin-top: 50px;
+    
+}
+h2{
+    margin-top: 25px;
+}
+img{
+    margin-top: 25px;
+}
+p{
+    margin-top: 25px;
+    line-height:2;
+}
+
+.column1{
+    background: hsl(31, 77%, 52%);
+ 
+   
+}
+.column2{
+    background: hsl(184, 100%, 22%);
+   
+}
+.column3{
+    background: hsl(179, 100%, 13%);
+   
+    
+}
+.cards{
+    padding-left: 19px;
+    width: 270px;
+    
+}
+.btn{
+    background: white;
+    color: hsl(31, 77%, 52%);
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.btn2{
+    color: hsl(184, 100%, 22%); 
+}
+.btn3{
+    color:hsl(179, 100%, 13%);
+}
